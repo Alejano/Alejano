@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alejandro Barragan</h1>
 <h3 align="center">A passionate fullstack developer from México</h3>
 
-- 🔭 I’m currently working on [Spring Boot and React Native project](private link)
+- 🔭 I’m currently working on [python, Java Spring and Flutter](private link)
 
-- 🌱 I’m currently learning **React, Angular, kotlin and more**
+- 🌱 I’m currently learning **kotlin and more**
 
-- 👯 I’m looking to collaborate on **Spring or Native Project**
+- 👯 I’m looking to collaborate on **Spring or Flutter Project**
 
-- 🤝 I’m looking for help with **Python, Spring or Native Project**
+- 🤝 I’m looking for help with **Python, Spring or Flutter Project**
 
-- 👨‍💻 all of my projects will available at [soon](soon)
+- 👨‍💻 all of my projects will available at soon
 
-- 💬 Ask me about **Spring Boot, Python or C#**
+- 💬 Ask me about **Java Spring Boot,Flutter, React Native, Python or C#**
 
 - 📫 How to reach me **alejandro_barragan@systemastics.com**
 
