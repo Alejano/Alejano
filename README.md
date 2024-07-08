@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Barragan</h1>
+[![trophy](https://github-profile-trophy.vercel.app/?username=alejano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="center">A passionate fullstack developer from México</h3>
 
 - 🔭 I’m currently working on [python, Java Spring and Flutter](private link)
