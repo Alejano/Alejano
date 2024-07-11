@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://fb.com/acercano.alejano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="acercano.alejano" height="30" width="40" /></a>
 <a href="https://instagram.com/jano.__._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jano.__._" height="30" width="40" /></a>
-  <a href="https://g.dev/alejano" target="blank"><p>Google</p></a>
+  <a href="https://g.dev/alejano" target="blank">Google</a>
 </p>
 
 
